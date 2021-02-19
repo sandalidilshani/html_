@@ -74,13 +74,14 @@ li > a{
 
 
 .container{
-    width: 100%;
+    width: 80%;
+    margin: auto;
     /* display: flex;
     flex-direction: column; */
 }
 .sections{
 display:flex;
-
+box-shadow: 18px -5px 48px 14px rgba(255,255,255,0.59);
 margin-top:20px ;
 padding: 20px;
 justify-content:center;
